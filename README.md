@@ -10,6 +10,10 @@ In order to run this song, you must use the earsketch website. The earsketch mod
 # Purpose
 The purpose of this project was to create a song that is coded either in Python or Javascript, contains an underlying theme of racial equity and must be submitted before the due date. My CTS teacher presented EarSketch to the class and I thought that I would like it since I enjoy listening to music and always wanted to try and make music myself. 
 
+# Built With
+* [EarSketch](https://earsketch.gatech.edu/landing/#/)
+* Python
+
 # Link to website
 To listen to the song, press the following link
 https://earsketch.gatech.edu/earsketch2/?sharing=cz0RQaBOrmFs195zJyK_ozKjn8sxuZJ9zGv0HDvHKnA.
