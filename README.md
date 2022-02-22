@@ -2,6 +2,10 @@
 Welcome to my EarSketch project repository!
 Here, you will find a file that I created for the EarSketch competition.
 
+<div align="center">
+  <img src="Earsketch.png" alt="" width="350px" height="200px" />
+</div>
+
 # What is EarSketch?
 EarSketch is a free educational based programming environnment that uses Python or Javascript to create and mix music. You essentially take different samples from the variety of choices offered by EarSketch, put them into the digital audio workstation (DAW) and create a song that will be submitted to the competition. 
 
