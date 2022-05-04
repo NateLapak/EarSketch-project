@@ -1,3 +1,6 @@
+# Runner-Up to Your Voice is Power fall 2021!
+Check out the results [here]("https://amazonfutureengineer.ca/your-voice-is-power-fall-2021-winners-announced/")
+
 # EarSketch-project
 Welcome to my EarSketch project repository!
 Here, you will find a file that I created for the EarSketch competition.
