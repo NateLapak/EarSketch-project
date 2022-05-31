@@ -1,5 +1,5 @@
 # Runner-Up to Your Voice is Power fall 2021!
-Check out the results [here](https://amazonfutureengineer.ca/your-voice-is-power-fall-2021-winners-announced/)
+Check out the results [here](https://amazonfutureengineer.ca/your-voice-is-power-fall-2021-winners-announced/). <br>
 Listen to the song [here](https://earsketch.gatech.edu/earsketch2/?sharing=MVt9pMW2-tdiEhJGZM6vXQ)
 
 # EarSketch-project
