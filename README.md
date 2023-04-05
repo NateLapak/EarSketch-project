@@ -1,7 +1,3 @@
-# Runner-Up to Your Voice is Power fall 2021!
-Check out the results [here](https://amazonfutureengineer.ca/your-voice-is-power-fall-2021-winners-announced/). <br>
-Listen to the song [here](https://earsketch.gatech.edu/earsketch2/?sharing=MVt9pMW2-tdiEhJGZM6vXQ)
-
 # EarSketch-project
 Welcome to my EarSketch project repository!
 Here, you will find a file that I created for the EarSketch competition.
@@ -21,6 +17,10 @@ The purpose of this project was to create a song that is coded either in Python 
 # Built With
 * [EarSketch](https://earsketch.gatech.edu/landing/#/)
 * Python
+
+# Runner-Up to Your Voice is Power fall 2021!
+Check out the results [here](https://amazonfutureengineer.ca/your-voice-is-power-fall-2021-winners-announced/). <br>
+Listen to the song [here](https://earsketch.gatech.edu/earsketch2/?sharing=MVt9pMW2-tdiEhJGZM6vXQ)
 
 # Author(s) and credits
 Project created by Nathan Lapak.
